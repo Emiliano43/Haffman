@@ -1,0 +1,27 @@
+﻿  unittest2.cpp
+c:\users\enazy\source\repos\haffman\haffman\solution.h(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman\solution.h(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman\solution.h(57): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman\solution.h(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman_\unittest2.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman_\unittest2.cpp(31): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman\list_.h(130): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\enazy\source\repos\haffman\haffman\list_.h(129): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\enazy\source\repos\haffman\haffman\solution.h(76): note: выполняется компиляция ссылки на экземпляр шаблон функции "T1 List<T1>::at(size_t)"
+          with
+          [
+              T1=CodingTree::Node
+          ]
+  c:\users\enazy\source\repos\haffman\haffman\solution.h(32): note: выполняется компиляция ссылки на экземпляр шаблон класс "List<CodingTree::Node>"
+c:\users\enazy\source\repos\haffman\haffman\list_.h(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman\list_.h(103): warning C4018: >: несоответствие типов со знаком и без знака
+  c:\users\enazy\source\repos\haffman\haffman\list_.h(102): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\enazy\source\repos\haffman\haffman\solution.h(84): note: выполняется компиляция ссылки на экземпляр шаблон функции "void List<CodingTree::Node>::insert(T1,size_t)"
+          with
+          [
+              T1=CodingTree::Node
+          ]
+c:\users\enazy\source\repos\haffman\haffman\list_.h(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\haffman\haffman\solution.h(44): warning C4172: возвращение адреса локальной или временной переменной : haffman_codes_map
+c:\users\enazy\source\repos\haffman\haffman\rbtree.h(150): warning C4715: RBtree<char,int>::get_node: значение возвращается не при всех путях выполнения
+  Haffman_.vcxproj -> C:\Users\enazy\source\repos\Haffman\Debug\Haffman_.dll
